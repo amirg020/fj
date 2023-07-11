@@ -1,0 +1,16 @@
+2023-07-10 12:43:41 - [32minfo[39m: Creating configuration file...
+2023-07-10 12:43:41 - [32minfo[39m: Adding new script(s) in package.json...
+2023-07-10 12:43:41 - [32minfo[39m: Setup completed
+2023-07-10 12:47:22 - [32minfo[39m: Reading configs from /Users/amir/Desktop/playwright/browserstack.yml
+2023-07-10 12:47:23 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-07-10 12:53:45 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qcb0xknqr5ymimqhlskm3jqjkdwo6zkyavykup9d to view build report, insights, and many more debugging information all at one place!
+
+2023-07-11 12:40:29 - [32minfo[39m: Reading configs from /Users/amir/Desktop/playwright/browserstack.yml
+2023-07-11 12:40:30 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-07-11 12:41:03 - [31merror[39m: getaddrinfo ENOTFOUND collector-observability.browserstack.com
+2023-07-11 12:48:07 - [32minfo[39m: Creating configuration file...
+2023-07-11 12:48:07 - [32minfo[39m: Setup completed
+2023-07-11 12:48:15 - [32minfo[39m: Reading configs from /Users/amir/Desktop/playwright/browserstack.yml
+2023-07-11 12:48:15 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-07-11 12:58:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/noj3zw5jx6qqfkroqxz4hqkbdc8uf30nqhife3mw to view build report, insights, and many more debugging information all at one place!
+
